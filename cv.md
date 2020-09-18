@@ -1,6 +1,5 @@
 # Aleksiaichuk Pavel Alexandrovich</br>
-### About me:</br>
----
+### About me:</br>---
 I am a graduate of Minsk branch of Plekhanov Russian University of Economics, a form of distance education in the specialty "Applied Informatics in Economics".
 2015, May - I graduated from courses "Testing Software".</br>
 2017, March - I graduated from courses CISCO “CCNA. Routing and switching. Introduction to network technology".</br>
