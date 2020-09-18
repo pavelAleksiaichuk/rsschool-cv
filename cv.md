@@ -1,4 +1,4 @@
-# <span style="color:red">some Aleksiaichuk Pavel Alexandrovich<br/>
+# Aleksiaichuk Pavel Alexandrovich<span style="color:red">some<br/>
 ### About me:<br/>
 I am a graduate of Minsk branch of Plekhanov Russian University of Economics, a form of distance education in the specialty "Applied Informatics in Economics".<br/>
 2015, May - I graduated from courses "Testing Software".<br/>
