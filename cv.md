@@ -26,9 +26,9 @@ Minsk, Kosmonavtov 38/2-25.
 pavelaleksiaichuk@gmail.com
 
 ### SOCIAL LINK:
-[link](https://www.facebook.com/profile.php?id=100002657816837)</br>
-[link](https://www.linkedin.com/pub/pavel-aleksiaichuk/100/6a2/a25)</br>
-[link](https://moikrug.ru/pavelaleksiaichuk)
+Facebook[link](https://www.facebook.com/profile.php?id=100002657816837)</br>
+linkedin[link](https://www.linkedin.com/pub/pavel-aleksiaichuk/100/6a2/a25)</br>
+moikrug[link](https://moikrug.ru/pavelaleksiaichuk)
 
 ### SKYPE: live:pavelaleksiaichuk
 
