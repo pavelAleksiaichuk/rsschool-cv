@@ -1,1 +1,57 @@
-3323223232422322
+#Aleksiaichuk Pavel Alexandrovich</br>
+About me:
+I am a graduate of Minsk branch of Plekhanov Russian University of Economics, a form of distance education in the specialty "Applied Informatics in Economics".
+2015, May - I graduated from courses "Testing Software".
+2017, March - I graduated from courses CISCO “CCNA. Routing and switching. Introduction to network technology".
+2018, May - Graduated from courses CISCO “CCNA Routing and Switching: Routing and Switching Essentials”.
+In the first year I wrote a course on developing a program for processing bank deposits in the C ++ programming language.
+Designed and developed a database in ACCESS MS Office. I wrote an article on this database for the university conference. It was published in the conference information package.
+Graduated from courses in software testing and System Administration.
+Developed a LAN based on a dedicated server for 12 people in a 2-story building.
+Designed and developed a database in SQL SERVER 2012. He Designed and developed an automated graduate accounting system in C # with help Visual Studio 2015 for the university, as well as the database in SQL SERVER 2012 which was included in the diploma.
+I have made 4 sites using HTML5 and CSS3.
+I have knowledge of JavaScript and jQuery.
+
+### DATE OF BIRTH:
+November, 11, 1986.
+
+### ADRESS:
+Minsk, Kosmonavtov 38/2-25.
+
+### PHONE:
++375 29 1949093
++375 17 3075599
+
+### E-MAIL:
+pavelaleksiaichuk@gmail.com
+
+### SOCIAL LINK:
+[link]https://www.facebook.com/profile.php?id=100002657816837
+[link]https://www.linkedin.com/pub/pavel-aleksiaichuk/100/6a2/a25
+[link]https://moikrug.ru/pavelaleksiaichuk
+
+### SKYPE: live:pavelaleksiaichuk
+
+### Education
+- Secondary school finished in 2002;
+- College ПТК “РИПО” 2002 - 2006;
+- Independent courses System Administrator at Лидер (lider.by) August – September 2014;
+- Independent courses at Stormnet (it-courses.by) May – June 2015; - Minsk branch of the Plekhanov Russian University of Economics 2015 – 2020.
+### Experience
+### Independent courses at Stormnet.
+#### Responsibilities:
+  - Test cases creation;
+  - Functional testing of banking systems, Internet-shops;
+  - Writing SQL queries;
+  - Submit bugs in bug tracking system (JIRA);
+  - Automated testing in the Selenium IDE.
+  
+### Information about courseworks:
+  2016 – Course work “Informatics and programming”. Develop a program in Visual Studio C ++ for processing bank deposits. The program has a window graphical interface that displays the current state of the deposit.
+  2016 – Course work “Databases”, 2016. Developed and created a database “Bank deposits” in ACCESS MS Office.
+  2017 – Course work “Computing systems, networks and telecommunications”, 2017. Developed a LAN based on a dedicated server for 12 people in a 2-story building. 2017 - Course work “Design of Information Systems”.
+  Additional Information:
+  2017, March – Participation in the 10th International Scientific and Practical Conference "Modern innovative technologies and problems of sustainable development of society" in Minsk branch of the Plekhanov Russian University of Economics.
+  2017, march - Graduated courses CISCO “Routing and switching. Introduction to network technology and received a certificate”.
+  
+  
