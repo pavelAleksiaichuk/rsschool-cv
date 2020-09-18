@@ -1,16 +1,16 @@
 # Aleksiaichuk Pavel Alexandrovich</br>
-About me:
+### About me:</br>
 I am a graduate of Minsk branch of Plekhanov Russian University of Economics, a form of distance education in the specialty "Applied Informatics in Economics".
-2015, May - I graduated from courses "Testing Software".
-2017, March - I graduated from courses CISCO “CCNA. Routing and switching. Introduction to network technology".
-2018, May - Graduated from courses CISCO “CCNA Routing and Switching: Routing and Switching Essentials”.
-In the first year I wrote a course on developing a program for processing bank deposits in the C ++ programming language.
+2015, May - I graduated from courses "Testing Software".</br>
+2017, March - I graduated from courses CISCO “CCNA. Routing and switching. Introduction to network technology".</br>
+2018, May - Graduated from courses CISCO “CCNA Routing and Switching: Routing and Switching Essentials”.</br>
+In the first year I wrote a course on developing a program for processing bank deposits in the C ++ programming language.</br>
 Designed and developed a database in ACCESS MS Office. I wrote an article on this database for the university conference. It was published in the conference information package.
-Graduated from courses in software testing and System Administration.
-Developed a LAN based on a dedicated server for 12 people in a 2-story building.
-Designed and developed a database in SQL SERVER 2012. He Designed and developed an automated graduate accounting system in C # with help Visual Studio 2015 for the university, as well as the database in SQL SERVER 2012 which was included in the diploma.
-I have made 4 sites using HTML5 and CSS3.
-I have knowledge of JavaScript and jQuery.
+Graduated from courses in software testing and System Administration.</br>
+Developed a LAN based on a dedicated server for 12 people in a 2-story building.</br>
+Designed and developed a database in SQL SERVER 2012. He Designed and developed an automated graduate accounting system in C # with help Visual Studio 2015 for the university, as well as the database in SQL SERVER 2012 which was included in the diploma.</br>
+I have made 4 sites using HTML5 and CSS3.</br>
+I have knowledge of JavaScript and jQuery.</br>
 
 ### DATE OF BIRTH:
 November, 11, 1986.
@@ -54,4 +54,31 @@ pavelaleksiaichuk@gmail.com
   2017, March – Participation in the 10th International Scientific and Practical Conference "Modern innovative technologies and problems of sustainable development of society" in Minsk branch of the Plekhanov Russian University of Economics.
   2017, march - Graduated courses CISCO “Routing and switching. Introduction to network technology and received a certificate”.
   
+  ### Skills
+### Basic Concept of Testing
+Test case
+Black box testing
+MS Excel
+MS Word
+Тестирование
+Функциональное тестирование
+T-SQL
+Microsoft Access
+HTML5
+CSS3
+Cisco
+Visual Studio C#
+MS SQL SERVER 2012
+JavaScript
+jQuery
+C#
+Bootstrap
+DocsVision
+
+### Personal qualities
+- Ability to learn;
+- Ability to work In a team;
+- Purposefulness, sociability, responsibility;
+- Desire to improve in the professional sphere;
+- High working capacity, goodwill, diligence.
   
