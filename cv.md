@@ -1,4 +1,4 @@
-# Aleksiaichuk Pavel Alexandrovich<br/>
+# <span style="color:blue">Aleksiaichuk Pavel Alexandrovich<br/>
 ### About me:<br/>
 I am a graduate of Minsk branch of Plekhanov Russian University of Economics, a form of distance education in the specialty "Applied Informatics in Economics".<br/>
 2015, May - I graduated from courses "Testing Software".<br/>
@@ -33,10 +33,9 @@ moikrug [link](https://moikrug.ru/pavelaleksiaichuk)
 ### SKYPE: live:pavelaleksiaichuk
 
 ### Education
-- Secondary school finished in 2002;<br/>
 - College ПТК “РИПО” 2002 - 2006;<br/>
-- Independent courses System Administrator at Лидер (lider.by) August – September 2014;<br/>
-- Independent courses at Stormnet (it-courses.by) May – June 2015; - Minsk branch of the Plekhanov Russian University of Economics 2015 – 2020.<br/>
+- Independent courses at Stormnet May – June 2015; 
+- Minsk branch of the Plekhanov Russian University of Economics.
 ### Experience
 Independent courses at Stormnet.<br/>
 Responsibilities:<br/>
@@ -52,9 +51,9 @@ Responsibilities:<br/>
   2017 – Course work “Computing systems, networks and telecommunications”, 2017. Developed a LAN based on a dedicated server for 12 people in a 2-story building. 2017 - Course work “Design of Information Systems”.<br/>
   ### Additional Information:
   2017, March – Participation in the 10th International Scientific and Practical Conference "Modern innovative technologies and problems of sustainable development of society" in Minsk branch of the Plekhanov Russian University of Economics.<br/>
-  2017, march - Graduated courses CISCO “Routing and switching. Introduction to network technology and received a certificate”.<br/>
-  
-  ### Skills
+  2017, march - Graduated courses CISCO “Routing and switching. Introduction to network technology and received a certificate”.
+
+### Skills
 ### Basic Concept of Testing
 - Test case
 -Black box testing
