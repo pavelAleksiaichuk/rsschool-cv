@@ -37,15 +37,7 @@ moikrug [link](https://moikrug.ru/pavelaleksiaichuk)
 - College ПТК “РИПО” 2002 - 2006;<br/>
 - Independent courses at Stormnet May – June 2015; 
 - Minsk branch of the Plekhanov Russian University of Economics.
-### Experience
-Independent courses at Stormnet.<br/>
-Responsibilities:<br/>
-  - Test cases creation;
-  - Functional testing of banking systems, Internet-shops;
-  - Writing SQL queries;
-  - Submit bugs in bug tracking system (JIRA);
-  - Automated testing in the Selenium IDE.
-  
+
 ### Information about courseworks:
   2016 – Course work “Informatics and programming”. Develop a program in Visual Studio C ++ for processing bank deposits. The program has a window graphical interface that displays the current state of the deposit.<br/>
   2016 – Course work “Databases”, 2016. Developed and created a database “Bank deposits” in ACCESS MS Office.<br/>
