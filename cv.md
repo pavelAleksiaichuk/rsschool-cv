@@ -6,12 +6,12 @@ I am a graduate of Minsk branch of Plekhanov Russian University of Economics, a 
 2017, March - I graduated from courses CISCO “CCNA. Routing and switching. Introduction to network technology".<br/>
 2018, May - Graduated from courses CISCO “CCNA Routing and Switching: Routing and Switching Essentials”.<br/>
 In the first year I wrote a course on developing a program for processing bank deposits in the C ++ programming language.<br/>
-Designed and developed a database in ACCESS MS Office. I wrote an article on this database for the university conference. It was published in the conference information package.
+Designed and developed a database in ACCESS MS Office. I wrote an article on this database for the university conference. It was published in the conference information package.<br/>
 Graduated from courses in software testing and System Administration.<br/>
 Developed a LAN based on a dedicated server for 12 people in a 2-story building.<br/>
-Designed and developed a database in SQL SERVER 2012. He Designed and developed an automated graduate accounting system in C # with help Visual Studio 2015 for the university, as well as the database in SQL SERVER 2012 which was included in the diploma.</br>
-I have made 4 sites using HTML5 and CSS3.</br>
-I have knowledge of JavaScript and jQuery.</br>
+Designed and developed a database in SQL SERVER 2012. He Designed and developed an automated graduate accounting system in C # with help Visual Studio 2015 for the university, as well as the database in SQL SERVER 2012 which was included in the diploma.<br/>
+I have made 4 sites using HTML5 and CSS3.<br/>
+I have knowledge of JavaScript and jQuery.<br/>
 
 ### DATE OF BIRTH:
 November, 11, 1986.
