@@ -42,14 +42,14 @@ moikrug [link](https://moikrug.ru/pavelaleksiaichuk)
   2016 – Course work “Informatics and programming”. Develop a program in Visual Studio C ++ for processing bank deposits. The program has a window graphical interface that displays the current state of the deposit.<br/>
   2016 – Course work “Databases”, 2016. Developed and created a database “Bank deposits” in ACCESS MS Office.<br/>
   2017 – Course work “Computing systems, networks and telecommunications”, 2017. Developed a LAN based on a dedicated server for 12 people in a 2-story building. 2017 - Course work “Design of Information Systems”.<br/>
-  ### Additional Information:
+ 
+ ### Additional Information:
   2017, March – Participation in the 10th International Scientific and Practical Conference "Modern innovative technologies and problems of sustainable development of society" in Minsk branch of the Plekhanov Russian University of Economics.<br/>
   2017, march - Graduated courses CISCO “Routing and switching. Introduction to network technology and received a certificate”.
 
 ### Skills
-### Basic Concept of Testing
 - Test case
--Black box testing
+- Black box testing
 - MS Excel
 - MS Word
 - Тестирование
