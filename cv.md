@@ -82,3 +82,4 @@ Responsibilities:<br/>
 - Desire to improve in the professional sphere;
 - High working capacity, goodwill, diligence.
   
+  
