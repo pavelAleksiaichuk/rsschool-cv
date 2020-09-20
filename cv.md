@@ -74,3 +74,4 @@ moikrug [link](https://moikrug.ru/pavelaleksiaichuk)
 - Desire to improve in the professional sphere;
 - High working capacity, goodwill, diligence.
   
+  
